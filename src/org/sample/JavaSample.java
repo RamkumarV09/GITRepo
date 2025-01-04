@@ -18,6 +18,17 @@ public class JavaSample {
 		System.out.println("Meth 3");
 	}
 	
+	private void meth4() {
+
+		System.out.println("Meth 4");
+	}
+	
+	private void meth5() {
+		System.out.println("Meth 5");
+
+
+	}
+
 	private void meth7() {
 		System.out.println("Meth 7");
 
@@ -30,6 +41,6 @@ public class JavaSample {
 	
 	private void meth9() {
 		System.out.println("Meth 9");
-
 	}
+	
 }
